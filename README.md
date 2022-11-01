@@ -4,3 +4,6 @@
 - Shop Page (Wishlist, Checkout, and Order)
 - Review Page
 - Profile Page
+### Tools:
+- Bootstrap
+- Laravel
